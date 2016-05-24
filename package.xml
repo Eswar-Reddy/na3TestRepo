@@ -4,19 +4,30 @@
     <types>
         <members>ApxCls1</members>
         <members>ApxCls2</members>
+        <members>ApxCls3</members>
+        <members>ApxCls4</members>
+        <members>cls1</members>
         <name>ApexClass</name>
     </types>
     <types>
+        <members>Car__c.CarRange__c</members>
         <members>SupportTest__c.SupportTestDesc__c</members>
         <members>SupportTest__c.SupportTestFielName__c</members>
         <members>SupportTest__c.test1__c</members>
         <members>SupportTest__c.test2__c</members>
+        <members>Table__c.CF1__c</members>
+        <members>Table__c.TableDescription__c</members>
         <name>CustomField</name>
+    </types>
+    <types>
+        <members>Cl1</members>
+        <name>CustomLabel</name>
     </types>
     <types>
         <members>Car__c</members>
         <members>Computer__c</members>
         <members>SupportTest__c</members>
+        <members>Table__c</members>
         <name>CustomObject</name>
     </types>
     <types>
